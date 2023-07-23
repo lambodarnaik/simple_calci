@@ -7,8 +7,8 @@ button{
 .Calculater{
     margin-top: 100px;
     display: grid;
-    grid-template-columns: repeat(4,minmax(40px,90px));
-    grid-template-rows: repeat(7,minmax(40px,90px));
+    grid-template-columns: repeat(4,90px);
+    grid-template-rows: repeat(7,90px);
     place-content:center;
 }
 .display{
